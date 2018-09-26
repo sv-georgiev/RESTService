@@ -171,6 +171,8 @@ namespace RESTService.Controllers
         {
             int i = 0;
             i++;
+            int w = 1;
+            w++;
         }
 
     }
