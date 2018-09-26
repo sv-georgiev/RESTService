@@ -23,7 +23,7 @@ namespace RESTService.Controllers
     [RoutePrefix("api/parts")]
     public class PartsController : ApiController
     {
-
+        //example: http://localhost:51027/api/parts/
         //GET api/parts
         [Route("")]
         public IEnumerable<string> Get()
