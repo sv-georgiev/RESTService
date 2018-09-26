@@ -167,6 +167,11 @@ namespace RESTService.Controllers
             return result;
         }
 
+        private void Test()
+        {
+            int i = 0;
+            i++;
+        }
 
     }
 }
